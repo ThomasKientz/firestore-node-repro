@@ -1,0 +1,14 @@
+{
+  "name": "firebase-issue",
+  "version": "1.0.0",
+  "description": "Demonstrate an issue with firebase web javascript library and node",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^5.9.3"
+  }
+}
